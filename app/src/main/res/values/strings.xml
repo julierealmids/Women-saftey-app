@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Woman safety app</string>
+    <string name="name">Name:</string>
+    <string name="number">Number</string>
+    <string name="instructions">Instructions</string>
+    <string name="save">SAVE</string>
+    <string name="view_registered">View Registered</string>
+    <string name="instruction">INSTRUCTIONS</string>
+    <string name="please_follow_the_steps_below_to_set_up_your_account">Please follow the steps below to set up your account</string>
+    <string name="_4_shake_your_phone_incase_of_emergency_to_alert_your_guardian">4: SHAKE your phone incase of emergency to alert your guardian</string>
+    <string name="_3_always_maintain_working_internet_connections">3:Always maintain working internet connections</string>
+    <string name="_2_register_your_guardians_number">2:Register your guardians number</string>
+    <string name="_1_register_your_phone_number">1:Register your phone number</string>
+    <string name="let_s_start_now">LET\'S START NOW</string>
+    <string name="let_s_start_nowW">LET\'S START NOW!</string>
+    <string name="main_menu">MAIN MENU</string>
+    <string name="register">Register</string>
+    <string name="register_mobile_number">Register Mobile Number</string>
+    <string name="instructionss">Instructions</string>
+    <string name="view_registeredd">View Registered</string>
+    <string name="your_phone_number">Your Phone Number</string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">BACK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="main_menu">MAIN MENU</string>
+    <!--    <string name="your_phone_number">Your Phone Number</string>-->
+</resources>
